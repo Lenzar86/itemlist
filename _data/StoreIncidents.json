@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "amy",
-		"price": 6500,
+		"price": 65000,
 		"karmatype": "Doom"
 	},
 	{
@@ -271,11 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -332,7 +327,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 17,
 		"karmatype": "Good"
 	},
 	{
@@ -421,15 +416,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 84
 }
