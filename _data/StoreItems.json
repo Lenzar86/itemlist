@@ -352,13 +352,13 @@
       "abr": "shelf",
       "category": "Furniture",
       "defname": "Shelf",
-      "price": 203
+      "price": 70
     },
     {
       "abr": "smallshelf",
       "category": "Furniture",
       "defname": "ShelfSmall",
-      "price": 102
+      "price": 35
     },
     {
       "abr": "dresser",
@@ -622,19 +622,19 @@
       "abr": "mini-turret",
       "category": "Security",
       "defname": "Turret_MiniTurret",
-      "price": 492
+      "price": 625
     },
     {
       "abr": "81mmmortar",
       "category": "Security",
       "defname": "Turret_Mortar",
-      "price": 1500
+      "price": 1542
     },
     {
       "abr": "foamturret",
       "category": "Security",
       "defname": "Turret_FoamTurret",
-      "price": 492
+      "price": 517
     },
     {
       "abr": "psychicemanator",
@@ -1246,7 +1246,7 @@
       "abr": "compositehelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 280
     },
     {
       "abr": "marinehelmet",
@@ -1276,13 +1276,13 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": 277
+      "price": 292
     },
     {
       "abr": "firefoampoppack",
       "category": "Utility",
       "defname": "Apparel_FirefoampopPack",
-      "price": 239
+      "price": 253
     },
     {
       "abr": "psychicshocklance",
@@ -1972,13 +1972,13 @@
       "abr": "brazier",
       "category": "Furniture",
       "defname": "Brazier",
-      "price": 167
+      "price": 173
     },
     {
       "abr": "darklightbrazier",
       "category": "Furniture",
       "defname": "DarklightBrazier",
-      "price": 167
+      "price": 173
     },
     {
       "abr": "meditationthrone",
@@ -2002,7 +2002,7 @@
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "shiplandingbeacon",
@@ -2158,25 +2158,25 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 4508
+      "price": 4783
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": 1775
+      "price": 2058
     },
     {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 5925
+      "price": 6208
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": 2200
+      "price": 2483
     },
     {
       "abr": "cataphractarmor",
@@ -2194,13 +2194,13 @@
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 8450
+      "price": 8725
     },
     {
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": 2825
+      "price": 3108
     },
     {
       "abr": "locustarmor",
@@ -2254,7 +2254,7 @@
       "abr": "warhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Warhammer",
-      "price": 608
+      "price": 525
     },
     {
       "abr": "monosword",
@@ -2650,7 +2650,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "controlsublink(standard)",
@@ -2950,7 +2950,7 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": -10
+      "price": 9483
     },
     {
       "abr": "gasmask",
@@ -2980,13 +2980,13 @@
       "abr": "toxpack",
       "category": "Utility",
       "defname": "Apparel_PackTox",
-      "price": 219
+      "price": 241
     },
     {
       "abr": "mechlordsuit",
       "category": "Armor",
       "defname": "Apparel_MechlordSuit",
-      "price": -10
+      "price": 12708
     },
     {
       "abr": "heavybandolier",
@@ -4777,7 +4777,7 @@
       "price": 1333
     },
     {
-      "abr": "rebeldeclassifier",
+      "abr": "deserterdeclassifier",
       "category": "Utility",
       "defname": "VFED_DeserterDeclassifier",
       "price": 833
@@ -4786,43 +4786,43 @@
       "abr": "remoteantigraincharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_AntigrainWarhead",
-      "price": 4058
+      "price": 5058
     },
     {
       "abr": "remotecharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_HighExplosive",
-      "price": 245
+      "price": 229
     },
     {
       "abr": "remoteempcharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_EMP",
-      "price": 245
+      "price": 433
     },
     {
       "abr": "remotefirefoamcharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_Firefoam",
-      "price": 245
+      "price": 185
     },
     {
       "abr": "remoteincendiarycharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_Incendiary",
-      "price": 245
+      "price": 203
     },
     {
       "abr": "remotesmokecharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_Smoke",
-      "price": 245
+      "price": 185
     },
     {
       "abr": "remotetoxcharge",
       "category": "Security",
       "defname": "VFED_RemoteTrapIED_ToxGas",
-      "price": 245
+      "price": 185
     },
     {
       "abr": "rockconstruct",
@@ -4858,7 +4858,7 @@
       "abr": "apron",
       "category": "Apparel",
       "defname": "VAE_Apparel_Apron",
-      "price": 204
+      "price": 87
     },
     {
       "abr": "baseballcap",
@@ -4870,7 +4870,7 @@
       "abr": "blouse",
       "category": "Apparel",
       "defname": "VAE_Apparel_Blouse",
-      "price": 126
+      "price": 76
     },
     {
       "abr": "boots",
@@ -4882,13 +4882,13 @@
       "abr": "builder'sjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_BuildersJacket",
-      "price": 122
+      "price": 182
     },
     {
       "abr": "casualt-shirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_CasualTShirt",
-      "price": 143
+      "price": 76
     },
     {
       "abr": "chef'stoque",
@@ -4900,13 +4900,13 @@
       "abr": "chef'suniform",
       "category": "Apparel",
       "defname": "VAE_Apparel_ChefsUniform",
-      "price": 222
+      "price": 122
     },
     {
       "abr": "doctorscrubs",
       "category": "Apparel",
       "defname": "VAE_Apparel_DoctorScrubs",
-      "price": 186
+      "price": 161
     },
     {
       "abr": "fedora",
@@ -4918,7 +4918,7 @@
       "abr": "fleeceshirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_FleeceShirt",
-      "price": 160
+      "price": 93
     },
     {
       "abr": "glasses",
@@ -4930,7 +4930,7 @@
       "abr": "gloves",
       "category": "Handwear and footwear",
       "defname": "VAE_Handwear_Gloves",
-      "price": 89
+      "price": 56
     },
     {
       "abr": "hardhat",
@@ -4942,19 +4942,19 @@
       "abr": "hoodie",
       "category": "Apparel",
       "defname": "VAE_Apparel_Hoodie",
-      "price": 259
+      "price": 125
     },
     {
       "abr": "jeans",
       "category": "Apparel",
       "defname": "VAE_Apparel_Jeans",
-      "price": 198
+      "price": 114
     },
     {
       "abr": "jumpsuit",
       "category": "Apparel",
       "defname": "VAE_Apparel_Jumpsuit",
-      "price": 280
+      "price": 213
     },
     {
       "abr": "labcoat",
@@ -4972,19 +4972,19 @@
       "abr": "militaryjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryJacket",
-      "price": 375
+      "price": 305
     },
     {
       "abr": "militaryuniform",
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryUniform",
-      "price": 246
+      "price": 247
     },
     {
       "abr": "overalls",
       "category": "Apparel",
       "defname": "VAE_Apparel_Overalls",
-      "price": 180
+      "price": 97
     },
     {
       "abr": "peltcoat",
@@ -5002,37 +5002,37 @@
       "abr": "sheriffshirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_SheriffShirt",
-      "price": 213
+      "price": 130
     },
     {
       "abr": "shirtandtie",
       "category": "Apparel",
       "defname": "VAE_Apparel_ShirtandTie",
-      "price": 151
+      "price": 101
     },
     {
       "abr": "shoes",
       "category": "Handwear and footwear",
       "defname": "VAE_Footwear_Shoes",
-      "price": 114
+      "price": 81
     },
     {
       "abr": "shorts",
       "category": "Apparel",
       "defname": "VAE_Apparel_Shorts",
-      "price": 141
+      "price": 74
     },
     {
       "abr": "skirt",
       "category": "Apparel",
       "defname": "VAE_Apparel_Skirt",
-      "price": 142
+      "price": 75
     },
     {
       "abr": "suitjacket",
       "category": "Apparel",
       "defname": "VAE_Apparel_SuitJacket",
-      "price": 327
+      "price": 260
     },
     {
       "abr": "sunglasses",
@@ -5050,7 +5050,7 @@
       "abr": "tanktop",
       "category": "Apparel",
       "defname": "VAE_Apparel_TankTop",
-      "price": 107
+      "price": 57
     },
     {
       "abr": "tribalkilt",
@@ -5068,127 +5068,127 @@
       "abr": "trousers",
       "category": "Apparel",
       "defname": "VAE_Apparel_Trousers",
-      "price": 164
+      "price": 97
     },
     {
       "abr": "tunic",
       "category": "Apparel",
       "defname": "VAE_Apparel_Tunic",
-      "price": 143
+      "price": 93
     },
     {
       "abr": ".277fury(ap)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".277fury(ap-he)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".277fury(ap-i)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".277fury(fmj)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".277fury(hp)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".277fury(sabot)",
       "category": ".277 Fury",
       "defname": "Ammo_277Fury_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(ap)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(ap-he)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(ap-i)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(fmj)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(hp)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".300aacblackout(sabot)",
       "category": ".300 AAC Blackout",
       "defname": "Ammo_300AACBlackout_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(ap)",
       "category": ".303 British",
       "defname": "Ammo_303British_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(ap-he)",
       "category": ".303 British",
       "defname": "Ammo_303British_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(ap-i)",
       "category": ".303 British",
       "defname": "Ammo_303British_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(fmj)",
       "category": ".303 British",
       "defname": "Ammo_303British_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(hp)",
       "category": ".303 British",
       "defname": "Ammo_303British_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".303british(sabot)",
       "category": ".303 British",
       "defname": "Ammo_303British_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".338lapuamagnum(ap)",
       "category": ".338 Lapua Magnum",
       "defname": "Ammo_338Lapua_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".338lapuamagnum(ap-he)",
@@ -5200,19 +5200,19 @@
       "abr": ".338lapuamagnum(ap-i)",
       "category": ".338 Lapua Magnum",
       "defname": "Ammo_338Lapua_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".338lapuamagnum(fmj)",
       "category": ".338 Lapua Magnum",
       "defname": "Ammo_338Lapua_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".338lapuamagnum(sabot)",
       "category": ".338 Lapua Magnum",
       "defname": "Ammo_338Lapua_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".338precisioncomponents",
@@ -5224,13 +5224,13 @@
       "abr": ".410boreshell(bean)",
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_Beanbag",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".410boreshell(buck)",
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_Buck",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".410boreshell(emp)",
@@ -5242,43 +5242,43 @@
       "abr": ".410boreshell(slug)",
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_Slug",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".44magnum(ap)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".44magnum(fmj)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".44magnum(hp)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".45acp(ap)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".45acp(fmj)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".45acp(hp)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".50bmg(ap)",
@@ -5314,7 +5314,7 @@
       "abr": "105mmhowitzer",
       "category": "Security",
       "defname": "CE_Artillery_Howitzer",
-      "price": 2042
+      "price": 2317
     },
     {
       "abr": "105mmhowitzershell(airburst)",
@@ -5404,7 +5404,7 @@
       "abr": "12gaugeshell(buck)",
       "category": "12 gauge",
       "defname": "Ammo_12Gauge_Buck",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "12gaugeshell(emp)",
@@ -5416,7 +5416,7 @@
       "abr": "12gaugeshell(slug)",
       "category": "12 gauge",
       "defname": "Ammo_12Gauge_Slug",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "12mmrailgun(sabot)",
@@ -5710,43 +5710,43 @@
       "abr": "5.56x45mmnato(ap)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(ap-he)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(ap-i)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(fmj)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(hp)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(sabot)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "5.56x45mmnato(ssaap)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_SSAAP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "50mmrocket(he)",
@@ -5776,7 +5776,7 @@
       "abr": "5x50mmcaseless(sabot)",
       "category": "5x50mm Caseless",
       "defname": "Ammo_5x50mmCaseless_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "6.8upperreceivercomponents",
@@ -5812,7 +5812,7 @@
       "abr": "6x22mmcharged",
       "category": "6x22mm Charged",
       "defname": "Ammo_6x22mmCharged",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "6x24mmcharged",
@@ -5836,109 +5836,109 @@
       "abr": "7.62x39mmsoviet(ap)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsoviet(ap-he)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsoviet(ap-i)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsoviet(fmj)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsoviet(hp)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x39mmsoviet(sabot)",
       "category": "7.62x39mm Soviet",
       "defname": "Ammo_762x39mmSoviet_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(ap)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(ap-he)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(ap-i)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(fmj)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(hp)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x51mmnato(sabot)",
       "category": "7.62x51mm NATO",
       "defname": "Ammo_762x51mmNATO_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(ap)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(ap-he)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(ap-i)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(fmj)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(hp)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "7.62x54mmr(sabot)",
       "category": "7.62x54mmR",
       "defname": "Ammo_762x54mmR_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "75x350mmrcannonshell(ap)",
@@ -6052,79 +6052,79 @@
       "abr": "90mmflakturret",
       "category": "Security",
       "defname": "Turret_Flak",
-      "price": 2117
+      "price": 2642
     },
     {
       "abr": "9x18mmmakarov(ap)",
       "category": "9x18mm Makarov",
       "defname": "Ammo_9x18mmMakarov_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x18mmmakarov(fmj)",
       "category": "9x18mm Makarov",
       "defname": "Ammo_9x18mmMakarov_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x18mmmakarov(hp)",
       "category": "9x18mm Makarov",
       "defname": "Ammo_9x18mmMakarov_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x19mmpara(ap)",
       "category": "9x19mm Parabellum",
       "defname": "Ammo_9x19mmPara_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x19mmpara(fmj)",
       "category": "9x19mm Parabellum",
       "defname": "Ammo_9x19mmPara_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x19mmpara(hp)",
       "category": "9x19mm Parabellum",
       "defname": "Ammo_9x19mmPara_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(ap)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(ap-he)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(ap-i)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(fmj)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(hp)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "9x39mmsoviet(sabot)",
       "category": "9x39mm Soviet",
       "defname": "Ammo_9x39mmSoviet_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "a-12chargeanti-materielrifle",
@@ -6376,7 +6376,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientbattery",
@@ -6676,7 +6676,7 @@
       "abr": "arrow(stone)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Stone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "arrow(venom)",
@@ -6904,7 +6904,7 @@
       "abr": "biosolids",
       "category": "Waste",
       "defname": "Biosolids",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "biosolidscomposter",
@@ -6994,7 +6994,7 @@
       "abr": "bloodleech",
       "category": "Alien raw fish",
       "defname": "VCEF_BloodLeech",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "bloodshrimp",
@@ -7054,7 +7054,7 @@
       "abr": "borealsardine",
       "category": "Alien raw fish",
       "defname": "VCEF_BorealSardine",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "boulder",
@@ -8194,7 +8194,7 @@
       "abr": "duskysprat",
       "category": "Alien raw fish",
       "defname": "VCEF_DuskySprat",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "earlgreytea",
@@ -8578,7 +8578,7 @@
       "abr": "flareround",
       "category": "Flare",
       "defname": "Ammo_Flare",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "flashbanggrenade",
@@ -8620,19 +8620,19 @@
       "abr": "fn5.7x28mm(ap)",
       "category": "FN 5.7x28mm",
       "defname": "Ammo_FN57x28mm_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "fn5.7x28mm(fmj)",
       "category": "FN 5.7x28mm",
       "defname": "Ammo_FN57x28mm_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "fn5.7x28mm(hp)",
       "category": "FN 5.7x28mm",
       "defname": "Ammo_FN57x28mm_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "fnfal",
@@ -8686,7 +8686,7 @@
       "abr": "frostleaf",
       "category": "Raw resources",
       "defname": "AB_RawFrostLeaf",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "frostlynx",
@@ -9190,7 +9190,7 @@
       "abr": "greatarrow(stone)",
       "category": "Great arrows",
       "defname": "Ammo_GreatArrow_Stone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "greatarrow(venom)",
@@ -9286,7 +9286,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "habdaklongfin",
@@ -9574,7 +9574,7 @@
       "abr": "jelliedchemfuel",
       "category": "Flamethrower fuel",
       "defname": "Ammo_Flamethrower_Napalm",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "jelliedprometheum",
@@ -10504,7 +10504,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mintcoffee",
@@ -11242,7 +11242,7 @@
       "abr": "propanebag",
       "category": "Alien raw fish",
       "defname": "VCEF_PropaneBag",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "propanefueltank",
@@ -12472,7 +12472,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "sprite",
@@ -12748,7 +12748,7 @@
       "abr": "tentacularfruit",
       "category": "Vegetarian",
       "defname": "AB_RawTentacularFruit",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "tequila",
