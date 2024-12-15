@@ -9,7 +9,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.3"
   },
   {
     "author": "Andrew Raphael Lukasik",
@@ -24,15 +24,57 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9034.22423"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Alpha Prefabs",
     "steamId": "3070780021",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "swablu",
+    "name": "Ambient Rim",
+    "steamId": "3158997430",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "MO",
+    "name": "Ancient urban ruins",
+    "steamId": "3316062206",
     "version": "1.0.0.0"
   },
   {
@@ -78,54 +120,6 @@
     "version": "1.5"
   },
   {
-    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.9034.22423"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Deserters",
-    "steamId": "3025493377",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Melee",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -136,6 +130,12 @@
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.8884.37791"
   },
   {
     "author": "Dubwise",
@@ -174,10 +174,94 @@
     "version": null
   },
   {
+    "author": "Falconne",
+    "name": "Labels on Floor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
+  },
+  {
+    "author": "Supes",
+    "name": "Map Wide Orbital Trade Beacon",
+    "steamId": "1839069104",
+    "version": "1.0.0.3"
+  },
+  {
+    "author": "Leoltron",
+    "name": "Max Buy, Max Sell",
+    "steamId": "2889812094",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Neceros (Original) and Chris",
+    "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Mid-saver Saver",
+    "steamId": "3261311100",
+    "version": "1.5"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.2.0"
+  },
+  {
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
     "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist Temporary 1.5 Update",
+    "steamId": "2880823401",
+    "version": "2.9.140"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "TwoPenny",
+    "name": "Portraits of the Rim",
+    "steamId": "2937991425",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hatti",
@@ -198,16 +282,16 @@
     "version": "3.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
     "version": "1.2.7364"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "pogoman",
@@ -291,6 +375,18 @@
     "author": "Oskar Potocki, xrushha and legodude17",
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
     "version": "1.0.0.0"
   },
   {
@@ -387,102 +483,6 @@
     "author": "Zalejrem",
     "name": "World Map Beautification Project (Continued)",
     "steamId": "3266720501",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Music Manager (Continued)",
-    "steamId": "3220120457",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "swablu",
-    "name": "Ambient Rim",
-    "steamId": "3158997430",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "krafs",
-    "name": "Level Up!",
-    "steamId": "1701592470",
-    "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
-  },
-  {
-    "author": "juanlopez2008",
-    "name": "LightsOut",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
-  },
-  {
-    "author": "Supes",
-    "name": "Map Wide Orbital Trade Beacon",
-    "steamId": "1839069104",
-    "version": "1.0.0.3"
-  },
-  {
-    "author": "Leoltron",
-    "name": "Max Buy, Max Sell",
-    "steamId": "2889812094",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros (Original) and Chris",
-    "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Pharmacist Temporary 1.5 Update",
-    "steamId": "2880823401",
-    "version": "2.9.140"
-  },
-  {
-    "author": "TwoPenny",
-    "name": "Portraits of the Rim",
-    "steamId": "2937991425",
     "version": "1.0.0.0"
   }
 ]
