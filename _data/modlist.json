@@ -1,9 +1,27 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+350afc454b4f794a613c562877690c2fe8a66670"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.3.1.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "3324954705",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
   },
   {
     "author": "RedMattis",
@@ -34,6 +52,12 @@
     "name": "1-2-3 Personalities M2",
     "steamId": "2781023972",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "1trickPwnyta's Defaults",
+    "steamId": "3285178686",
+    "version": "1.0.0.0"
   },
   {
     "author": "Imranfish",
@@ -99,7 +123,13 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
+    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
+  },
+  {
+    "author": "Zylle",
+    "name": "Map Designer",
+    "steamId": "2111424996",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -116,6 +146,12 @@
   {
     "author": "cucumpear and Azrael",
     "name": "Animal Variety Coats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NECEROS and forked by Skelly",
+    "name": "Balanced Eclipse and Solar Flare - Forked",
     "steamId": null,
     "version": null
   },
@@ -148,6 +184,12 @@
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
+  },
+  {
+    "author": "Updated by Ogliss",
+    "name": "Pawn Badge Fan Fork [Adopted]",
+    "steamId": "2526040241",
+    "version": "1.0.0"
   },
   {
     "author": "CrashM",
@@ -198,6 +240,12 @@
     "version": "1.2.7365"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
+  },
+  {
     "author": "Slime-Senpai",
     "name": "EndlessGrowth",
     "steamId": "2894401734",
@@ -216,6 +264,12 @@
     "version": "1.5.4"
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Gender Non-Conforming",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ThatHitmann",
     "name": "Geneva Checklist",
     "steamId": "3339044171",
@@ -230,6 +284,12 @@
   {
     "author": "Syrus",
     "name": "Healer Mech Serum Choice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
     "steamId": null,
     "version": null
   },
@@ -268,6 +328,12 @@
     "name": "Max Buy, Max Sell",
     "steamId": "2889812094",
     "version": "1.0.0"
+  },
+  {
+    "author": "tofudriver",
+    "name": "Medical Tab - Forked",
+    "steamId": "3228889251",
+    "version": "1.0.0+c9e8b0a81c7dae5a717c227ec63c3c3a5fd01e23"
   },
   {
     "author": "Epicguru",
@@ -378,10 +444,22 @@
     "version": "2024.0.1.20"
   },
   {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "user19990313 and louize",
     "name": "RuntimeGC [1.5] fork",
     "steamId": "3284019732",
     "version": "20.0.15.1"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -406,6 +484,18 @@
     "name": "Stack XXL",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Stranger in black",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Symmetry Matters",
+    "steamId": "3416425624",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sam",
@@ -471,7 +561,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.7"
+    "version": "1.5.39"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -534,6 +624,12 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "ComradeAlexey",
+    "name": "Vanilla Research Panel - Queue",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
@@ -576,14 +672,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
+    "author": "Tiduin",
+    "name": "Wealth Display (Continued)",
     "steamId": null,
     "version": null
   },
   {
     "author": "Zalejrem",
     "name": "World Map Beautification Project (Continued)",
+    "steamId": "3266720501",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "tk421storm",
+    "name": "Zone Message Control",
     "steamId": null,
     "version": null
   },
@@ -718,5 +820,11 @@
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]

@@ -127,7 +127,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "amy": {
+  "toxicfallout": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
